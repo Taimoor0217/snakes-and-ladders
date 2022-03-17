@@ -1,2 +1,2 @@
-# snakes-and-ladder
-Sankes and Ladder Low Level Design in Typescript
+# Snakes and Ladders
+Snakes and Ladders Low Level Design in Typescript
